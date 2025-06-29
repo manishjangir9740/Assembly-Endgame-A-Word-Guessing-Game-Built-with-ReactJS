@@ -14,6 +14,10 @@
 - 🔁 Reset the game to play again
 
 ---
+![Screenshot 2025-06-30 005133](https://github.com/user-attachments/assets/8c60a977-39b4-4e57-bd88-e19f0519d9c3)
+![Screenshot 2025-06-30 005229](https://github.com/user-attachments/assets/1b6348b5-b11f-465d-b40c-8daaa6832a9c)
+
+
 
 ## 🛠️ Installation
 
